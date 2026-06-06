@@ -1,3 +1,5 @@
+Project developed for Data Structures course.
+
 # Sorting Algorithm Performance Analyzer
 
 # Team Members
