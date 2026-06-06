@@ -6,7 +6,7 @@ Project developed for Data Structures course.
 - M.Vedasri Reddy(2510030094)
 - G.Rishitha Reddy(2510030100)
 
-# Features
+# Features 
 - Bubble Sort
 - Merge Sort
 - Quick Sort
